@@ -1,2 +1,2 @@
 # leetcode
-all my leetcode codes sre stored here
+all my leetcode codes src are stored here
